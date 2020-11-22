@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: blue;
+  text-align: center;
+  color: light pink;
+}
+</style>
+</head>
+<body>
+
+<h1>About Whitehat Jr</h1>
+<p>Whitehat Jr is the best coding platform in the World. Students should join Whitehat Jr for their bright future. By Whitehat Jr students can become more sharper and intelligent.
+--- Sanskriti.</p>
+
+</body>
+</html>
